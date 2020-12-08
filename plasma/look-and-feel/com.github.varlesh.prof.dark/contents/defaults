@@ -18,11 +18,14 @@ ToolButtonStyleOtherToolbars=NoText
 Theme=breeze-dark
 
 [plasmarc][Theme]
-name=Prof-Dark-Transparent
+name=Prof-Dark
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Prof-Dark
+
+[kwinrc][Plugins]
+blurEnabled=false
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors

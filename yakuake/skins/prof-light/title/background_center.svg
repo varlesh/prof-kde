@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="7" height="37" version="1.1">
+ <defs id="defs14">
+  <linearGradient id="linearGradient831">
+   <stop style="stop-color:#000000;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient845" x1="7" x2="7" y1="-3" y2="29" gradientTransform="translate(0,3)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient885"/>
+  <linearGradient id="linearGradient885">
+   <stop id="stop2-3" style="stop-color:#cfcfcf;stop-opacity:1" offset="0"/>
+   <stop id="stop4-6" style="stop-color:#dadadb;stop-opacity:1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient836" x1="7" x2="7" y1="26" y2="34" gradientTransform="translate(0,3)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient831"/>
+ </defs>
+ <g id="g846">
+  <rect style="opacity:0.4;fill:url(#linearGradient836);fill-opacity:1" width="7" height="8" x="0" y="29"/>
+  <path style="opacity:1;fill:url(#linearGradient845);fill-opacity:1" d="M 0,0 H 7 V 32 H 0 Z"/>
+  <rect style="opacity:0.5;fill:#ffffff" width="7" height="1" x="0" y="31"/>
+  <rect style="opacity:0.3;fill:#000000" width="7" height="1" x="0" y="32"/>
+ </g>
+</svg>
