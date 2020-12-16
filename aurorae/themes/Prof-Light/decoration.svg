@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg92" width="300" height="300" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" version="1.1">
  <defs id="defs25">
   <linearGradient id="linearGradient885">
    <stop style="stop-color:#cfcfcf;stop-opacity:1" offset="0"/>
@@ -68,4 +68,13 @@
  <g id="decoration-center">
   <path style="fill:url(#linearGradient934);fill-opacity:1.0" d="m 92,90 h 98 v 98 H 92 Z"/>
  </g>
+ <rect id="hint-stretch-borders" style="fill:#ff0000" width="4" height="4" x="0" y="-4"/>
+ <rect id="shadow-hint-top-margin" style="fill:#ff00ff" width="4" height="2" x="139" y="81"/>
+ <rect id="hint-top-margin" style="fill:#00ff29" width="4" height="9" x="139" y="81"/>
+ <rect id="shadow-hint-bottom-margin" style="fill:#ff00ff" width="4" height="11" x="139" y="189"/>
+ <rect id="shadow-hint-right-margin" style="fill:#ff00ff" width="7" height="4" x="196" y="137"/>
+ <rect id="shadow-hint-left-margin" style="fill:#ff00ff" width="7" height="4" x="79" y="137"/>
+ <rect id="hint-bottom-margin" style="fill:#00ff29" width="4" height="12" x="139" y="188"/>
+ <rect id="hint-right-margin" style="fill:#00ff29" width="4" height="13" x="137" y="-203" transform="rotate(90)"/>
+ <rect id="hint-left-margin" style="fill:#00ff29" width="4" height="13" x="137" y="-92" transform="rotate(90)"/>
 </svg>
