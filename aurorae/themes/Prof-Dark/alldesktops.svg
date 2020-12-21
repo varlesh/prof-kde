@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" version="1.1">
- <g id="active-center" style="enable-background:new">
+ <g id="active-center">
   <g>
    <g transform="scale(0.875)">
     <path style="fill:#333333" d="M 8.0000702,16 C 12.418274,16 16,12.418286 16,8 16,3.5817144 12.418274,2e-7 8.0000702,2e-7 3.5817358,2e-7 0,3.5817144 0,8 c 0,4.418286 3.5817358,8 8.0000702,8"/>
@@ -7,7 +7,7 @@
    </g>
   </g>
  </g>
- <g id="inactive-center" style="enable-background:new" transform="translate(42)">
+ <g id="inactive-center" transform="translate(42)">
   <g>
    <g transform="scale(0.875)">
     <path style="fill:#333333" d="M 8.0000702,16 C 12.418274,16 16,12.418286 16,8 16,3.5817144 12.418274,2e-7 8.0000702,2e-7 3.5817358,2e-7 0,3.5817144 0,8 c 0,4.418286 3.5817358,8 8.0000702,8"/>
@@ -15,7 +15,7 @@
    </g>
   </g>
  </g>
- <g id="deactivated-center" style="enable-background:new" transform="translate(56)">
+ <g id="deactivated-center" transform="translate(56)">
   <g>
    <g transform="scale(0.875)">
     <path style="fill:#333333" d="M 8.0000702,16 C 12.418274,16 16,12.418286 16,8 16,3.5817144 12.418274,2e-7 8.0000702,2e-7 3.5817358,2e-7 0,3.5817144 0,8 c 0,4.418286 3.5817358,8 8.0000702,8"/>

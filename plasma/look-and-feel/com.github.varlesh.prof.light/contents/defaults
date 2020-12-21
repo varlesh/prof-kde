@@ -2,7 +2,7 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=ProfDark
+ColorScheme=ProfLight
 
 [kdeglobals][MainToolbarIcons]
 Size=16
@@ -15,14 +15,14 @@ ToolButtonStyle=NoText
 ToolButtonStyleOtherToolbars=NoText
 
 [kdeglobals][Icons]
-Theme=breeze-dark
+Theme=breeze
 
 [plasmarc][Theme]
-name=Prof-Dark
+name=Prof-Light
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Prof-Dark
+theme=__aurorae__svg__Prof-Light
 
 [kwinrc][Plugins]
 blurEnabled=false

@@ -28,17 +28,17 @@
  </defs>
  <g id="shadow-right" transform="matrix(0,-1,-1,0,221,221)">
   <rect style="fill:url(#linearGradient1073);opacity:0.7" width="50" height="10" x="153" y="-11" transform="scale(1,-1)"/>
-  <rect style="opacity:0.00100002" width="7" height="1" x="-18" y="-201" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="opacity:0.001" width="7" height="1" x="-18" y="-201" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect style="opacity:0.3" width="50" height="1" x="153" y="10"/>
  </g>
  <g id="shadow-top">
   <rect style="fill:url(#linearGradient4259);opacity:0.7" width="50" height="10" x="153" y="-11" transform="scale(1,-1)"/>
-  <rect style="opacity:0.00100002" width="7" height="1" x="-18" y="-201" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="opacity:0.001" width="7" height="1" x="-18" y="-201" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect style="opacity:0.3" width="50" height="1" x="153" y="10"/>
  </g>
  <g id="shadow-left" transform="rotate(-90,178,43)">
   <rect style="fill:url(#linearGradient1052);opacity:0.7" width="50" height="10" x="153" y="-11" transform="scale(1,-1)"/>
-  <rect style="opacity:0.00100002" width="7" height="1" x="-18" y="-201" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="opacity:0.001" width="7" height="1" x="-18" y="-201" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect style="opacity:0.3" width="50" height="1" x="153" y="10"/>
  </g>
  <g id="shadow-bottomleft" transform="matrix(1,0,0,-1,0,86)">
@@ -47,7 +47,7 @@
  </g>
  <g id="shadow-bottom" transform="matrix(1,0,0,-1,0,86)">
   <rect style="fill:url(#linearGradient1032);opacity:0.7" width="50" height="10" x="153" y="-11" transform="scale(1,-1)"/>
-  <rect style="opacity:0.00100002" width="7" height="1" x="-18" y="-201" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="opacity:0.001" width="7" height="1" x="-18" y="-201" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect style="opacity:0.3" width="50" height="1" x="153" y="10"/>
  </g>
  <g id="shadow-bottomright" transform="rotate(-180,178.00001,43)">
